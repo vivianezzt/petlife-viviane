@@ -4,7 +4,9 @@
 Projeto desenvolvido na trilha Start na Programação da <a href=https://www.onebitcode.com target="_blank">OneBitCode</a>
 </p>
 <br>
-  <img src="./imgem/petlife-viviane.svg" width="100%">
+<p align="center">
+  <img src="/imgem/petlife-viviane.svg" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
