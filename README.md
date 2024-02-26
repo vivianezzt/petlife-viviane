@@ -3,16 +3,8 @@
 <p align="center">
 Projeto desenvolvido na trilha Start na Programação da <a href=https://www.onebitcode.com target="_blank">OneBitCode</a>
 </p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 <br>
-<p align="center">
   <img src="./imgem/petlife-viviane.svg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
