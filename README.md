@@ -5,7 +5,7 @@ Projeto desenvolvido na trilha Start na Programação da <a href=https://www.one
 </p>
 <br>
 <p align="center">
-  <img src="/imgem/petlife-viviane.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/vivianezzt/petlife-viviane/main/imagem/petlife-viviane.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -21,3 +21,6 @@ Construido com as seguintes tecnologias:
 
 Criação de uma Landing Page para uma clínica veterinária (fictícia).
 
+<h3>Desenvolvido por </h3>
+
+<a href="https://www.instagram.com/datainfojava_?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==" target="_blank">Viviane Aguiar</a>
